@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 3,
@@ -26,15 +26,9 @@
     },
     {
       "id": 5,
-      "name": "Swiss Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 6,
-      "name": "Cookies",
+      "name": "Ice Cream",
       "category": "Dessert",
-      "isInCart": false
+      "isInCart": true
     }
   ]
 }
